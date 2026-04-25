@@ -38,3 +38,6 @@ bun.lock
 career-dashboard
 package-lock.json
 /.playwright-mcp
+cv-1.md
+cv.md
+interview-prep/story-bank.md
