@@ -1,0 +1,477 @@
+# Portal Scanner Configuration — Tajjallee Abid
+# React / Next.js / React Native frontend engineer, Dubai UAE.
+# Target: EU / Sweden / Nordics / broader Europe — fully remote OR visa sponsorship.
+
+title_filter:
+  positive:
+    - "React"
+    - "Next.js"
+    - "NextJS"
+    - "React Native"
+    - "Frontend"
+    - "Front-end"
+    - "Front End"
+    - "Web Engineer"
+    - "Web Developer"
+    - "JavaScript"
+    - "TypeScript"
+    - "Full Stack"
+    - "Fullstack"
+    - "Mobile Engineer"
+  negative:
+    - "Junior"
+    - "Intern"
+    - "Entry Level"
+    - "Vue"
+    - "Angular"
+    - "DevOps"
+    - "Backend"
+    - "iOS Native"
+    - "Android Native"
+    - "PHP"
+    - "Ruby"
+    - "Embedded"
+    - "SRE"
+    - "Blockchain"
+    - "Web3"
+    - "Crypto"
+    - "Java "
+    - ".NET"
+    - "Python"
+    - "Data Scientist"
+    - "Machine Learning"
+  seniority_boost:
+    - "Senior"
+    - "Staff"
+    - "Principal"
+    - "Lead"
+    - "Head"
+
+search_queries:
+  - name: Greenhouse — React EU Senior
+    query: 'site:boards.greenhouse.io OR site:job-boards.greenhouse.io "React" OR "Next.js" "Senior" (Europe OR remote) frontend engineer'
+    enabled: true
+
+  - name: Ashby — React/Next.js EU
+    query: 'site:jobs.ashbyhq.com "React" OR "Next.js" OR "React Native" "Senior" (Europe OR remote OR Berlin OR Stockholm OR Amsterdam OR London OR Dublin OR Lisbon)'
+    enabled: true
+
+  - name: Lever — React EU
+    query: 'site:jobs.lever.co "Senior React" OR "Senior Frontend" OR "React Native" (Europe OR remote OR Berlin OR Stockholm OR Amsterdam OR Dublin OR London)'
+    enabled: true
+
+  - name: Remotive — React Frontend EU
+    query: 'site:remotive.com "React" OR "Next.js" OR "React Native" "Senior" frontend engineer Europe remote'
+    enabled: true
+
+  - name: WeWorkRemotely — React Senior
+    query: 'site:weworkremotely.com "React" OR "Next.js" "Senior Frontend" OR "Senior React" OR "React Native"'
+    enabled: true
+
+  - name: EU Remote Jobs — React Frontend
+    query: 'site:euremotejobs.com "React" OR "Next.js" OR "React Native" frontend engineer'
+    enabled: true
+
+  - name: Himalayas — React EU
+    query: 'site:himalayas.app "React" OR "Next.js" OR "React Native" "Senior" frontend Europe remote'
+    enabled: true
+
+  - name: Welcome to the Jungle — Frontend EU
+    query: 'site:welcometothejungle.com "React" OR "Next.js" OR "React Native" Senior frontend Europe'
+    enabled: true
+
+  - name: LinkedIn — React EU Remote Sponsorship
+    query: '"React" OR "Next.js" OR "React Native" "Senior" frontend engineer (Europe OR EU OR Sweden OR Netherlands OR Germany OR Ireland OR Portugal) "visa sponsorship" OR "relocation" OR "remote"'
+    enabled: true
+
+  - name: Nordics React Remote
+    query: '"React" OR "Next.js" "Senior Frontend" OR "Senior Software Engineer" (Stockholm OR Copenhagen OR Helsinki OR Oslo) remote OR "visa sponsorship" OR relocation'
+    enabled: true
+
+  - name: Sweden React Engineering
+    query: '"React" OR "Next.js" OR "React Native" senior engineer Sweden Stockholm remote OR "work from anywhere" OR "relocation package"'
+    enabled: true
+
+  - name: Netherlands React Remote
+    query: '"React" OR "Next.js" "Senior Frontend" OR "Senior React Engineer" Netherlands Amsterdam remote OR "visa sponsorship"'
+    enabled: true
+
+  - name: Berlin React Remote
+    query: '"React" OR "Next.js" OR "React Native" "Senior" frontend engineer Berlin Germany remote OR "visa sponsorship" OR relocation'
+    enabled: true
+
+  - name: Workable — React EU
+    query: 'site:apply.workable.com "React" OR "Next.js" OR "React Native" "Senior" frontend engineer remote Europe'
+    enabled: true
+
+tracked_companies:
+
+  # -- Stockholm / Nordics AI/Tech (React-heavy stacks) --
+
+  - name: Lovable
+    careers_url: https://jobs.ashbyhq.com/lovable
+    notes: "Stockholm SE. AI app builder. React/Next.js stack. Remote-friendly."
+    enabled: true
+
+  - name: Legora
+    careers_url: https://jobs.ashbyhq.com/legora
+    notes: "Stockholm SE / NYC / London. AI-native legal workspace. React frontend."
+    enabled: true
+
+  - name: Spotify
+    careers_url: https://jobs.lever.co/spotify
+    notes: "Stockholm SE. Audio platform. React frontend, React Native mobile."
+    enabled: true
+
+  - name: Vinted
+    careers_url: https://jobs.lever.co/vinted
+    notes: "Vilnius LT / Berlin. C2C marketplace. React Native for mobile."
+    enabled: true
+
+  - name: Klarna
+    careers_url: https://job-boards.greenhouse.io/klarna
+    api: https://boards-api.greenhouse.io/v1/boards/klarna/jobs
+    notes: "Stockholm SE. Fintech unicorn. React frontend, React Native mobile banking."
+    enabled: true
+
+  # -- Berlin / DACH Tech (Remote-friendly) --
+
+  - name: N26
+    careers_url: https://job-boards.greenhouse.io/n26
+    api: https://boards-api.greenhouse.io/v1/boards/n26/jobs
+    notes: "Berlin / Barcelona. Mobile bank. React Native, React web."
+    enabled: true
+
+  - name: Trade Republic
+    careers_url: https://job-boards.greenhouse.io/traderepublicbank
+    api: https://boards-api.greenhouse.io/v1/boards/traderepublicbank/jobs
+    notes: "Berlin / London / Paris. Neobroker. React Native mobile, React web."
+    enabled: true
+
+  - name: SumUp
+    careers_url: https://job-boards.greenhouse.io/sumup
+    api: https://boards-api.greenhouse.io/v1/boards/sumup/jobs
+    notes: "Berlin / London. Payments fintech. React Native, React web."
+    enabled: true
+
+  - name: Contentful
+    careers_url: https://job-boards.greenhouse.io/contentful
+    api: https://boards-api.greenhouse.io/v1/boards/contentful/jobs
+    notes: "Berlin / Denver. Headless CMS. React SDK, Next.js ecosystem."
+    enabled: true
+
+  - name: GetYourGuide
+    careers_url: https://job-boards.greenhouse.io/getyourguide
+    api: https://boards-api.greenhouse.io/v1/boards/getyourguide/jobs
+    notes: "Berlin. Travel marketplace. React frontend, cross-platform mobile."
+    enabled: true
+
+  - name: n8n
+    careers_url: https://jobs.ashbyhq.com/n8n
+    notes: "Berlin + remote EU/US. Workflow automation. React-based UI."
+    enabled: true
+
+  - name: DeepL
+    careers_url: https://jobs.ashbyhq.com/DeepL
+    notes: "Cologne DE. Translation AI. React frontend team."
+    enabled: true
+
+  - name: Celonis
+    careers_url: https://job-boards.greenhouse.io/celonis
+    api: https://boards-api.greenhouse.io/v1/boards/celonis/jobs
+    notes: "Munich / NYC. Process intelligence. React-based UI platform."
+    enabled: true
+
+  # -- UK & Ireland (remote/sponsorship friendly) --
+
+  - name: Intercom
+    careers_url: https://job-boards.greenhouse.io/intercom
+    api: https://boards-api.greenhouse.io/v1/boards/intercom/jobs
+    notes: "Dublin EMEA. Customer service AI. Ember → React migration, React Native."
+    enabled: true
+
+  - name: Wayve
+    careers_url: https://job-boards.greenhouse.io/wayve
+    api: https://boards-api.greenhouse.io/v1/boards/wayve/jobs
+    notes: "London UK. Self-driving AI. React-based tooling frontends."
+    enabled: true
+
+  - name: Synthesia
+    careers_url: https://jobs.ashbyhq.com/synthesia
+    notes: "London UK. AI video generation. React/Next.js web platform."
+    enabled: true
+
+  - name: Stability AI
+    careers_url: https://job-boards.greenhouse.io/stabilityai
+    api: https://boards-api.greenhouse.io/v1/boards/stabilityai/jobs
+    notes: "London / SF. Generative AI. React frontend for creative tools."
+    enabled: true
+
+  - name: PhysicsX
+    careers_url: https://job-boards.greenhouse.io/physicsx
+    api: https://boards-api.greenhouse.io/v1/boards/physicsx/jobs
+    notes: "London UK. Physics-informed ML. React-based engineering tooling."
+    enabled: true
+
+  # -- France (remote-friendly) --
+
+  - name: Pigment
+    careers_url: https://jobs.lever.co/pigment
+    notes: "Paris FR / NYC / London. FP&A AI platform. React-heavy frontend."
+    enabled: true
+
+  - name: Hugging Face
+    careers_url: https://apply.workable.com/huggingface/
+    scan_method: websearch
+    scan_query: 'site:apply.workable.com/huggingface "React" OR "Frontend" OR "Next.js"'
+    notes: "Paris / NYC / Remote. ML hub. React-based hub.co UI."
+    enabled: true
+
+  - name: Qonto
+    careers_url: https://jobs.lever.co/qonto
+    notes: "Paris / Berlin / Barcelona / Milan. SMB neobank. React Native mobile."
+    enabled: true
+
+  - name: Mistral AI
+    careers_url: https://jobs.lever.co/mistral
+    notes: "Paris. European AI lab. React-based console/playground UI."
+    enabled: true
+
+  # -- Spain / Iberia --
+
+  - name: Factorial
+    careers_url: https://job-boards.greenhouse.io/factorial
+    api: https://boards-api.greenhouse.io/v1/boards/factorial/jobs
+    notes: "Barcelona. HR SaaS unicorn. React frontend."
+    enabled: true
+
+  - name: Travelperk
+    careers_url: https://jobs.ashbyhq.com/travelperk
+    notes: "Barcelona. Business travel. React/Next.js frontend."
+    enabled: true
+
+  - name: Attio
+    careers_url: https://jobs.ashbyhq.com/attio
+    notes: "Remote EU. AI-native CRM. React frontend, Next.js."
+    enabled: true
+
+  - name: Amplemarket
+    careers_url: https://job-boards.greenhouse.io/amplemarket
+    api: https://boards-api.greenhouse.io/v1/boards/amplemarket/jobs
+    notes: "Lisbon PT / Remote. AI sales platform. React frontend."
+    enabled: true
+
+  # -- Portugal (Lisbon tech hub) --
+
+  - name: Talkdesk
+    careers_url: https://www.talkdesk.com/careers
+    scan_method: websearch
+    scan_query: 'site:talkdesk.com/careers "React" OR "Frontend" OR "Next.js" engineer'
+    notes: "Lisbon. Contact center AI. React frontend."
+    enabled: true
+
+  # -- Netherlands / Amsterdam --
+
+  - name: Booking.com
+    careers_url: https://job-boards.greenhouse.io/booking
+    api: https://boards-api.greenhouse.io/v1/boards/booking/jobs
+    notes: "Amsterdam. Travel platform. React, React Native. Known for relocation."
+    enabled: true
+
+  - name: Adyen
+    careers_url: https://jobs.lever.co/adyen
+    notes: "Amsterdam. Payments. React frontend. Visa sponsorship available."
+    enabled: true
+
+  # -- Developer tools (EU remote or fully remote) --
+
+  - name: Vercel
+    careers_url: https://job-boards.greenhouse.io/vercel
+    api: https://boards-api.greenhouse.io/v1/boards/vercel/jobs
+    notes: "Remote. Next.js creators. Perfect React/Next.js fit."
+    enabled: true
+
+  - name: Supabase
+    careers_url: https://jobs.ashbyhq.com/supabase
+    notes: "Remote-first. Postgres BaaS. React/Next.js-heavy dashboard."
+    enabled: true
+
+  - name: Retool
+    careers_url: https://retool.com/careers
+    scan_method: websearch
+    scan_query: 'site:retool.com/careers "React" OR "Frontend" OR "Engineer"'
+    notes: "London + Remote. Internal tools builder. React-based platform."
+    enabled: true
+
+  - name: Linear
+    careers_url: https://jobs.ashbyhq.com/linear
+    notes: "Remote. Project management. React/Electron. Known for excellent engineering."
+    enabled: true
+
+  - name: Tinybird
+    careers_url: https://jobs.ashbyhq.com/tinybird
+    notes: "Remote. Real-time data platform. React/Next.js frontend."
+    enabled: true
+
+  - name: WorkOS
+    careers_url: https://jobs.ashbyhq.com/workos
+    notes: "Remote. Enterprise auth APIs. React-based developer dashboard."
+    enabled: true
+
+  - name: Resend
+    careers_url: https://jobs.ashbyhq.com/resend
+    notes: "Remote-first. Email API. React/Next.js-focused developer product."
+    enabled: true
+
+  - name: Clerk
+    careers_url: https://jobs.ashbyhq.com/clerk
+    notes: "Remote. Auth/user management. React SDK-first product."
+    enabled: true
+
+  - name: Cohere
+    careers_url: https://jobs.ashbyhq.com/cohere
+    notes: "Remote. LLM provider. React-based console/playground."
+    enabled: true
+
+  - name: Weights & Biases
+    careers_url: https://jobs.lever.co/wandb
+    notes: "Remote. MLOps. React-based experiment tracking UI."
+    enabled: true
+
+  - name: Langfuse
+    careers_url: https://langfuse.com/careers
+    scan_method: websearch
+    scan_query: '"langfuse" careers "React" OR "Frontend" OR "Next.js" OR "Engineer"'
+    notes: "Berlin. LLMOps. Next.js-based open-source product."
+    enabled: true
+
+  # -- Fintech / Scale-ups (EU, known for sponsorship) --
+
+  - name: Revolut
+    careers_url: https://jobs.lever.co/revolut
+    notes: "London/Europe. Neobank. React Native for mobile. Known for relocation."
+    enabled: true
+
+  - name: Wise
+    careers_url: https://job-boards.greenhouse.io/wise
+    api: https://boards-api.greenhouse.io/v1/boards/wise/jobs
+    notes: "London / Tallinn / Vilnius / Budapest. Fintech. React, React Native. EU sponsorship."
+    enabled: true
+
+  - name: Monzo
+    careers_url: https://job-boards.greenhouse.io/monzo
+    api: https://boards-api.greenhouse.io/v1/boards/monzo/jobs
+    notes: "London UK. Digital bank. React Native mobile. UK visa sponsorship available."
+    enabled: true
+
+  - name: GoCardless
+    careers_url: https://job-boards.greenhouse.io/gocardless
+    api: https://boards-api.greenhouse.io/v1/boards/gocardless/jobs
+    notes: "London / Riga / Vilnius. Payments. React frontend. EU-friendly."
+    enabled: true
+
+  - name: Checkout.com
+    careers_url: https://job-boards.greenhouse.io/checkoutcom
+    api: https://boards-api.greenhouse.io/v1/boards/checkoutcom/jobs
+    notes: "London / Dubai / Europe. Payments platform. React-based merchant portal."
+    enabled: true
+
+  - name: Zilch
+    careers_url: https://job-boards.greenhouse.io/zilch
+    api: https://boards-api.greenhouse.io/v1/boards/zilch/jobs
+    notes: "London UK. BNPL fintech. React Native mobile. Visa sponsorship available."
+    enabled: true
+
+  # -- E-commerce / Marketplace (EU, React-heavy) --
+
+  - name: Zalando
+    careers_url: https://jobs.lever.co/zalando
+    notes: "Berlin DE. Fashion e-commerce. React frontend. Relocation support."
+    enabled: true
+
+  - name: Delivery Hero
+    careers_url: https://job-boards.greenhouse.io/deliveryhero
+    api: https://boards-api.greenhouse.io/v1/boards/deliveryhero/jobs
+    notes: "Berlin DE. Food delivery. React Native mobile. Relocation/sponsorship."
+    enabled: true
+
+  - name: Pipedrive
+    careers_url: https://job-boards.greenhouse.io/pipedrive
+    api: https://boards-api.greenhouse.io/v1/boards/pipedrive/jobs
+    notes: "Tallinn / Lisbon / Prague / NYC. CRM SaaS. React frontend."
+    enabled: true
+
+  # -- Remote-first / Work-from-anywhere companies --
+
+  - name: GitLab
+    careers_url: https://job-boards.greenhouse.io/gitlab
+    api: https://boards-api.greenhouse.io/v1/boards/gitlab/jobs
+    notes: "Fully remote. DevOps. Vue → React migration underway. WFA."
+    enabled: true
+
+  - name: Hotjar
+    careers_url: https://jobs.lever.co/hotjar
+    notes: "Fully remote. Product analytics. React frontend. WFA policy."
+    enabled: true
+
+  - name: Doist (Todoist/Twist)
+    careers_url: https://job-boards.greenhouse.io/doist
+    api: https://boards-api.greenhouse.io/v1/boards/doist/jobs
+    notes: "Fully remote. Productivity apps. React, React Native. WFA."
+    enabled: true
+
+  - name: Remote.com
+    careers_url: https://job-boards.greenhouse.io/remotecom
+    api: https://boards-api.greenhouse.io/v1/boards/remotecom/jobs
+    notes: "Fully remote. HR/payroll global. Next.js frontend. WFA."
+    enabled: true
+
+  - name: Whereby
+    careers_url: https://jobs.lever.co/whereby
+    notes: "Oslo / Remote. Video calls. React frontend. Nordic company."
+    enabled: true
+
+  - name: Maze
+    careers_url: https://jobs.ashbyhq.com/maze
+    notes: "Remote EU. User research platform. React/Next.js. EU-first team."
+    enabled: true
+
+  - name: Lemon Squeezy
+    careers_url: https://job-boards.greenhouse.io/lemonsqueezy
+    api: https://boards-api.greenhouse.io/v1/boards/lemonsqueezy/jobs
+    notes: "Remote. E-commerce for developers. React/Next.js."
+    enabled: true
+
+  - name: 1Password
+    careers_url: https://job-boards.greenhouse.io/1password
+    api: https://boards-api.greenhouse.io/v1/boards/1password/jobs
+    notes: "Remote (EU time-zone friendly). Password manager. React, React Native."
+    enabled: true
+
+  - name: Automattic (WordPress.com)
+    careers_url: https://job-boards.greenhouse.io/automattic
+    api: https://boards-api.greenhouse.io/v1/boards/automattic/jobs
+    notes: "Fully remote. WordPress.com. React/Calypso. WFA hiring."
+    enabled: true
+
+  - name: Toggl
+    careers_url: https://jobs.lever.co/toggl
+    notes: "Fully remote (EU-based). Time tracking. React frontend. WFA."
+    enabled: true
+
+  - name: Productboard
+    careers_url: https://job-boards.greenhouse.io/productboard
+    api: https://boards-api.greenhouse.io/v1/boards/productboard/jobs
+    notes: "Prague / Remote. Product management SaaS. React/Next.js."
+    enabled: true
+
+  - name: Miro
+    careers_url: https://job-boards.greenhouse.io/miro
+    api: https://boards-api.greenhouse.io/v1/boards/miro/jobs
+    notes: "Amsterdam / Remote. Collaboration whiteboard. React + WebGL canvas."
+    enabled: true
+
+  - name: Pitch
+    careers_url: https://jobs.lever.co/pitch
+    notes: "Berlin / Remote. Presentation tool. React/Electron. EU team."
+    enabled: true
