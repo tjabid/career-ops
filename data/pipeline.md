@@ -16,4 +16,13 @@
 - [ ] https://euremotejobs.com/job/lingo-dev-remote-full-time-senior-product-engineer-react-node-js-ux/ | Lingo.dev | Senior Product Engineer - React Node.js UX - EU Remote
 - [ ] https://weworkremotejobs.com/remote-jobs/proxify-ab-senior-frontend-developer-react-js-next-js-1 | Proxify AB | Senior Frontend Developer - React Next.js - Fully Remote
 
+<!-- EU/Sweden/Europe React watchlist scan — 2026-08-19 -->
+- [ ] https://euremotejobs.com/job/senior-software-engineer-ai-experiences/ | Sardine | Senior Software Engineer - AI Experiences (React/TypeScript, EMEA Remote)
+- [ ] https://euremotejobs.com/job/senior-react-native-engineer-driver-app/ | Nash | Senior React Native Engineer — Driver App (EU Remote, YC+a16z)
+- [ ] https://job-boards.greenhouse.io/surtai/jobs/4117237009 | Surt AI | React Frontend Engineer – B2B SaaS Platform (Barcelona, relocation + visa sponsorship)
+- [ ] https://remotive.com/remote/jobs/software-development/senior-react-native-cross-platform-frontend-developer-4172428 | Supaapps GmbH | Senior React Native Cross-platform Frontend Developer (Berlin, EU Remote)
+- [ ] https://weworkremotely.com/remote-jobs/proxify-ab-senior-next-js-developer-5 | Proxify AB | Senior Next.js Developer (CET±3h, Swedish co — different from React.js/Next.js listing already in pipeline)
+- [ ] https://jobs.ashbyhq.com/httpie/17de9aae-7a3c-40fb-a352-ddbbd7c14385 | HTTPie | Senior Frontend Engineer (Remote, Czech/EU company, React+Next.js+TypeScript — gate: confirm UAE-based OK)
+- [ ] https://weworkremotely.com/remote-jobs/hygraph-senior-fullstack-engineer-f-m-d-berlin-i-germany-emea-i-remote | Hygraph | Senior Fullstack Engineer (Berlin/EMEA Remote — EMEA includes UAE)
+
 ## Procesadas
