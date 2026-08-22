@@ -25,4 +25,12 @@
 - [ ] https://jobs.ashbyhq.com/httpie/17de9aae-7a3c-40fb-a352-ddbbd7c14385 | HTTPie | Senior Frontend Engineer (Remote, Czech/EU company, React+Next.js+TypeScript — gate: confirm UAE-based OK)
 - [ ] https://weworkremotely.com/remote-jobs/hygraph-senior-fullstack-engineer-f-m-d-berlin-i-germany-emea-i-remote | Hygraph | Senior Fullstack Engineer (Berlin/EMEA Remote — EMEA includes UAE)
 
+<!-- EU/Sweden/Europe React watchlist scan — 2026-08-22 -->
+- [ ] https://job-boards.greenhouse.io/apaleo/jobs/6685231003 | Apaleo | Senior Frontend Engineer – React/Next.js (Munich / EU Remote — gate: confirm UAE-remote OK)
+- [ ] https://remotive.com/remote-jobs/software-development/senior-frontend-engineer-2088531 | Vialma | Senior Frontend Engineer (EMEA/Europe Remote, React/Next.js/TS — gate: verify posting still active, posted Jan 2026)
+- [ ] https://builtin.com/job/senior-frontend-engineer-europe-remote-sherpany/7807121 | Sherpany | Senior Frontend Engineer (Europe Remote, React+Next.js, Swiss co — gate: find direct ATS URL, confirm UAE timezone OK)
+- [ ] https://remotive.com/remote/jobs/software-development/senior-frontend-software-engineer-react-js-and-next-js-4525290 | Mindera | Senior Frontend Software Engineer – React.js/Next.js (Remote, Portuguese consultancy — gate: confirm UAE/EMEA remote OK)
+- [ ] https://join.com/companies/supaapps/16555235-senior-full-stack-engineer-react-native-next-js-backend-product-engineering | Supaapps GmbH | Senior Full-Stack Engineer – React Native + Next.js + Backend (Berlin/EU Remote — different role from RN-only in pipeline; gate: backend Python/Django req)
+- [ ] https://himalayas.app/companies/jobgether/jobs/senior-fullstack-javascript-react-node-js-react-native-developer-europe-9432493859 | Jobgether | Senior Fullstack JS (React + Node.js + React Native) Developer — Europe Remote (gate: identify actual employer)
+
 ## Procesadas
