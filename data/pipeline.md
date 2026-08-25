@@ -33,4 +33,11 @@
 - [ ] https://join.com/companies/supaapps/16555235-senior-full-stack-engineer-react-native-next-js-backend-product-engineering | Supaapps GmbH | Senior Full-Stack Engineer – React Native + Next.js + Backend (Berlin/EU Remote — different role from RN-only in pipeline; gate: backend Python/Django req)
 - [ ] https://himalayas.app/companies/jobgether/jobs/senior-fullstack-javascript-react-node-js-react-native-developer-europe-9432493859 | Jobgether | Senior Fullstack JS (React + Node.js + React Native) Developer — Europe Remote (gate: identify actual employer)
 
+<!-- EU/Sweden/Europe React watchlist scan — 2026-08-25 -->
+- [ ] https://jobs.ashbyhq.com/synthesia/46d13eb9-9d94-435b-a141-19524b9e5c34 | Synthesia | Senior Frontend Engineer - Marketing Website (London/UK Remote, Next.js+React, $4B AI video co — gate: UK visa sponsorship; confirm sponsorship policy)
+- [ ] https://jobs.ashbyhq.com/zeal-network/2513ec18-f75f-4e8e-90ae-20ccaf40620c | Zeal Network | (Senior) Full Stack Next.js Developer (Hamburg / EU Remote, lottery platform LOTTO24/Tipp24 — gate: confirm EU work auth or relocation/sponsorship)
+- [ ] https://jobs.ashbyhq.com/zeal-network/56148579-e845-44c0-9cb4-609c3fab81f9 | Zeal Network | Senior Frontend Developer (Hamburg / EU Remote, same company — gate: confirm relocation/sponsorship)
+- [ ] https://jobs.ashbyhq.com/berlitz/114f07a2-8404-4878-83f1-2384c1bdcdb2 | Berlitz | Senior Software Engineer - Mobile / React Native (Germany Remote, global learning platform — gate: EU work auth likely required; confirm UAE remote OK)
+- [ ] https://jaabz.com/jobs/157139-senior-frontend-developer | Foxtek | Senior Frontend Engineer (Amsterdam hybrid 3d onsite, React+TypeScript, explicit visa sponsorship + 30% ruling + relocation — gate: requires relocation to NL; listing dated Feb 2026, verify still active)
+
 ## Procesadas
