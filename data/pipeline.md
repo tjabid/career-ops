@@ -40,4 +40,11 @@
 - [ ] https://jobs.ashbyhq.com/berlitz/114f07a2-8404-4878-83f1-2384c1bdcdb2 | Berlitz | Senior Software Engineer - Mobile / React Native (Germany Remote, global learning platform — gate: EU work auth likely required; confirm UAE remote OK)
 - [ ] https://jaabz.com/jobs/157139-senior-frontend-developer | Foxtek | Senior Frontend Engineer (Amsterdam hybrid 3d onsite, React+TypeScript, explicit visa sponsorship + 30% ruling + relocation — gate: requires relocation to NL; listing dated Feb 2026, verify still active)
 
+<!-- EU/Sweden/Europe React watchlist scan — 2026-08-28 -->
+- [ ] https://job-boards.greenhouse.io/lumimeds/jobs/4205821009 | Lumimeds | Senior Frontend Engineer (Next.js & React, AI-Native) — Remote (US telehealth, remote-first; Eastern Europe explicitly in scope per postings — gate: confirm UAE/EMEA remote OK)
+- [ ] https://jobs.lever.co/researchgate/d00e0f42-50c9-44d8-90e6-10852eadd466 | ResearchGate | Senior Frontend Engineer (UX & Design System) — Berlin/Remote (React design system at 25M+ member science network, remote-first DE company — gate: confirm visa sponsorship or UAE remote OK)
+- [ ] https://jobs.lever.co/researchgate/a58316f8-dc9b-4c2e-8d2a-49e87f8e3526 | ResearchGate | Senior Frontend Engineer – React — Berlin/Remote (general React eng role at same company, distinct from UX/DS role — gate: confirm visa sponsorship or UAE remote OK)
+- [ ] https://jobs.techstars.com/companies/reppls/jobs/53482200-senior-react-native-developer | Reppls | Senior React Native Developer — EU timezone remote (Techstars startup, fully remote, EU timezone preferred — gate: confirm UAE OK, check company HQ)
+- [ ] https://remotive.com/remote/jobs/software-development/senior-frontend-developer-in-react-js-and-react-native-4083135 | AMcom | Senior Frontend Developer (React.js + React Native) — Remote (German/EU company, covers both web + mobile React — gate: verify posting still active, confirm EMEA/UAE OK)
+
 ## Procesadas
