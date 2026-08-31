@@ -47,4 +47,12 @@
 - [ ] https://jobs.techstars.com/companies/reppls/jobs/53482200-senior-react-native-developer | Reppls | Senior React Native Developer — EU timezone remote (Techstars startup, fully remote, EU timezone preferred — gate: confirm UAE OK, check company HQ)
 - [ ] https://remotive.com/remote/jobs/software-development/senior-frontend-developer-in-react-js-and-react-native-4083135 | AMcom | Senior Frontend Developer (React.js + React Native) — Remote (German/EU company, covers both web + mobile React — gate: verify posting still active, confirm EMEA/UAE OK)
 
+<!-- EU/Sweden/Europe React watchlist scan — 2026-08-31 -->
+- [ ] https://boards.greenhouse.io/housinganywhere/jobs/5196023003 | HousingAnywhere | Senior Frontend Software Engineer (Rotterdam/Remote, React+TypeScript, explicit relocation + visa sponsorship via relocate.me — gate: confirm sponsorship applies to UAE → NL relocation)
+- [ ] https://jobs.techstars.com/companies/stream/jobs/54796886-senior-react-sdk-developer | Stream | Senior React SDK Developer (Amsterdam hybrid / EU remote — distinct from RN SDK role already in pipeline; "visa sponsorship and relocation support are possible" — gate: confirm UAE-based OK)
+- [ ] https://remotive.com/remote/jobs/software-development/senior-react-native-developer-4560749 | Ruby Labs | Senior React Native Developer (Fully remote, CET ±4h — Dubai UTC+4 is within window; any country welcome; React Native ownership role)
+- [ ] https://remotive.com/remote/jobs/software-dev/senior-frontend-engineer-2509504 | Factor Eleven | Senior Frontend Engineer – React.JS (Europe remote, German adtech, React+TypeScript+GraphQL+Vite — gate: confirm "Europe" includes UAE or if EU location required)
+- [ ] https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer | Lemon.io | Senior React Native Developer (Remote, globally inclusive: Europe/N.America/LATAM/Oceania/Asia/Africa — UAE eligible; talent matching platform — gate: confirm comp structure for direct vs matched roles)
+- [ ] https://himalayas.app/companies/robusta/jobs/senior-frontend-engineer-react-js-robusta-studio | Robusta Studio | Senior Frontend Engineer – React JS (EMEA remote, ops in Egypt + Germany — UAE is EMEA; React-primary — gate: find direct ATS URL, confirm comp range)
+
 ## Procesadas
