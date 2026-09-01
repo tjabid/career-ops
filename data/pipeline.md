@@ -55,4 +55,13 @@
 - [ ] https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer | Lemon.io | Senior React Native Developer (Remote, globally inclusive: Europe/N.America/LATAM/Oceania/Asia/Africa — UAE eligible; talent matching platform — gate: confirm comp structure for direct vs matched roles)
 - [ ] https://himalayas.app/companies/robusta/jobs/senior-frontend-engineer-react-js-robusta-studio | Robusta Studio | Senior Frontend Engineer – React JS (EMEA remote, ops in Egypt + Germany — UAE is EMEA; React-primary — gate: find direct ATS URL, confirm comp range)
 
+<!-- EU/Sweden/Europe React watchlist scan — 2026-09-01 -->
+- [ ] https://job-boards.greenhouse.io/incadigitalinc/jobs/4290798009 | Inca Digital | Senior Frontend Engineer (EU Remote, React/Next.js async-remote team — gate: confirm UAE remote accepted)
+- [ ] https://weworkremotely.com/remote-jobs/proxify-ab-senior-mern-developer-react-js-node-js | Proxify AB | Senior MERN Developer – React.js + Next.js (fully remote anywhere-in-world, Swedish co — distinct from React.js/Next.js and Next.js listings already in pipeline — gate: confirm comp structure for contractors)
+- [ ] https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-5 | Lemon.io | Senior React Full-stack Developer (globally inclusive remote: Europe/Americas/Asia/Africa/UAE eligible — React.js + Node.js + Next.js — distinct from RN listing already in pipeline — gate: confirm comp structure)
+- [ ] https://euremotejobs.com/job/principal-front-end-engineer/ | (TBC) | Principal Front-End Engineer (EU remote, React/Next.js/TypeScript, principal-level scope — gate: identify company, confirm UAE remote OK)
+- [ ] https://euremotejobs.com/job/senior-product-engineer-cross-platform/ | (TBC) | Senior Product Engineer, Cross-platform – React Native + web (EU remote, health & fitness co, AI-first — gate: identify company, confirm UAE OK)
+- [ ] https://euremotejobs.com/job/staff-engineer-frontend/ | (TBC) | Staff Engineer, Frontend (EU remote, React/TypeScript, staff-level — gate: identify company, confirm UAE OK)
+- [ ] https://jobs.lever.co/jobgether/7bb2ee81-7c88-4983-9ae0-e74485fc853b | Jobgether | Senior Frontend Engineer – React (Europe remote, complex UI + real-time data + AI features, July 2026 — distinct from fullstack Jobgether listing already in pipeline — gate: identify actual employer)
+
 ## Procesadas
