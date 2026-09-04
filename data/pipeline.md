@@ -64,4 +64,12 @@
 - [ ] https://euremotejobs.com/job/staff-engineer-frontend/ | (TBC) | Staff Engineer, Frontend (EU remote, React/TypeScript, staff-level — gate: identify company, confirm UAE OK)
 - [ ] https://jobs.lever.co/jobgether/7bb2ee81-7c88-4983-9ae0-e74485fc853b | Jobgether | Senior Frontend Engineer – React (Europe remote, complex UI + real-time data + AI features, July 2026 — distinct from fullstack Jobgether listing already in pipeline — gate: identify actual employer)
 
+<!-- EU/Sweden/Europe React watchlist scan — 2026-09-04 -->
+- [ ] https://jobs.ashbyhq.com/reactivemarkets/50abf8d2-33fe-40bb-85ba-10a69bec0403 | Reactive Markets | Senior Frontend Engineer (UK Remote, React/TypeScript real-time trading UI — gate: UK visa sponsorship or confirm UAE WFA OK)
+- [ ] https://jobs.ashbyhq.com/n8n/bdff4d5b-9cc0-4b1f-9ca1-7008e5972488 | n8n | Senior Frontend Platform Engineer (Berlin + EU Remote, React-based open-source workflow/AI platform — tracked company; gate: confirm UAE remote accepted)
+- [ ] https://jaabz.com/jobs/212310-mobile-developer | Flowbox | Senior React Native Developer (Copenhagen DK, explicit visa sponsorship + relocation, 482k-724k DKK/yr — gate: requires relocation to Copenhagen)
+- [ ] https://job-boards.greenhouse.io/trivelta/jobs/4031259009 | Trivelta | Senior Frontend Software Engineer (Barcelona + worldwide remote, TypeScript/React/Next.js — gate: confirm global remote scope, check comp range)
+- [ ] https://himalayas.app/companies/jakala-germany-gmbh/jobs/senior-frontend-developer-all-genders-react | JAKALA Germany GmbH | Senior Frontend Developer (Germany Remote, React+Next.js, digital consultancy — gate: confirm UAE remote OK, find direct ATS URL)
+- [ ] https://jobs.lever.co/jobgether/2e8030f1-5713-4127-a4af-e2c0356f1311 | Jobgether | Senior Frontend Engineer (Europe Remote, large-scale React app, July 2026 — distinct req from 7bb2ee81 in pipeline; gate: identify actual employer)
+
 ## Procesadas
