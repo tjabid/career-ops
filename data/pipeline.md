@@ -72,4 +72,15 @@
 - [ ] https://himalayas.app/companies/jakala-germany-gmbh/jobs/senior-frontend-developer-all-genders-react | JAKALA Germany GmbH | Senior Frontend Developer (Germany Remote, React+Next.js, digital consultancy — gate: confirm UAE remote OK, find direct ATS URL)
 - [ ] https://jobs.lever.co/jobgether/2e8030f1-5713-4127-a4af-e2c0356f1311 | Jobgether | Senior Frontend Engineer (Europe Remote, large-scale React app, July 2026 — distinct req from 7bb2ee81 in pipeline; gate: identify actual employer)
 
+<!-- EU/Sweden/Europe React watchlist scan — 2026-09-07 -->
+- [ ] https://www.lego.com/da-dk/careers/job/senior-frontend-engineer-digital-experiences-ff1a304e4ba21000d0faa6a87b9a0000 | LEGO Group | Senior Frontend Engineer – Digital Experiences (Copenhagen DK, React+TypeScript sign-in/account flows, March 2026, visa sponsorship + relocation per relocate.me — gate: verify posting still active)
+- [ ] https://www.lego.com/en-us/careers/job/60506455 | LEGO Group | Senior Software Engineer (React.js / Next.js / AWS) (Denmark, React+Next.js+GraphQL+AWS, world-class employer, visa sponsorship + relocation — gate: verify posting still active, confirm role is still open)
+- [ ] https://jobs.lever.co/klarna/a7a66e03-bd97-44d4-9f8e-de02dcd78285 | Klarna | Senior React Native Engineer (Milan IT, Klarna sponsors work permits in EU, fintech React Native at scale 6M+ users — gate: confirm Milan role remote from UAE or relocation/sponsorship)
+- [ ] https://jobs.ashbyhq.com/splitmetrics/f6d93ba0-b161-41f1-825e-00b709c1d530 | SplitMetrics | Senior Frontend Engineer – React (fully remote 20+ countries, EMEA/MENA coverage likely includes UAE, React+TypeScript, mobile-first ASO product — gate: confirm UAE location accepted)
+- [ ] https://jobs.ashbyhq.com/trading212/0a65135a-4205-4026-983f-b5006008cd46 | Trading212 | Senior React/React Native Engineer (EU fintech Sofia/London, React+React Native cross-platform, posted recently — gate: confirm UAE remote OK or visa sponsorship/relocation)
+- [ ] https://euremotejobs.com/job/senior-frontend-engineer-react-js/ | (TBC) | Senior Frontend Engineer – React.js (EU remote, React.js+TypeScript, 8+ years exp required — gate: identify company, confirm UAE remote accepted)
+- [ ] https://euremotejobs.com/job/senior-product-engineer-frontend-developer-products/ | (TBC) | Senior Product Engineer – Frontend / Developer Products (EU remote, React Router 7 / Next.js, developer products focus — gate: identify company, confirm UAE remote accepted)
+- [ ] https://relocate.me/the-netherlands/amsterdam/harver/senior-frontend-engineer-react-nodejs-4596 | Harver | Senior Frontend Engineer – React/NodeJS (Amsterdam NL, explicit visa sponsorship + relocation, HR-tech SaaS — gate: find direct ATS URL on Harver careers site, verify posting still active)
+- [ ] https://jobs.lever.co/jobgether/f8340775-53fb-49a9-80c9-c0af16df7a44 | Jobgether | Senior Software Engineer – Mobile / React Native (Europe remote, distinct from other Jobgether RN listing — gate: identify actual employer, confirm UAE remote OK)
+
 ## Procesadas
