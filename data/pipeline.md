@@ -83,4 +83,11 @@
 - [ ] https://relocate.me/the-netherlands/amsterdam/harver/senior-frontend-engineer-react-nodejs-4596 | Harver | Senior Frontend Engineer – React/NodeJS (Amsterdam NL, explicit visa sponsorship + relocation, HR-tech SaaS — gate: find direct ATS URL on Harver careers site, verify posting still active)
 - [ ] https://jobs.lever.co/jobgether/f8340775-53fb-49a9-80c9-c0af16df7a44 | Jobgether | Senior Software Engineer – Mobile / React Native (Europe remote, distinct from other Jobgether RN listing — gate: identify actual employer, confirm UAE remote OK)
 
+<!-- EU/Sweden/Europe React watchlist scan — 2026-09-10 -->
+- [ ] https://jobs.lever.co/jobgether/68e6bbcc-2f14-47a6-b2cb-578b965a1630 | Jobgether | Senior Frontend Developer (React & React Native) — Netherlands, Europe Remote (distinct from all other Jobgether listings in pipeline; gate: identify actual employer, confirm UAE remote OK)
+- [ ] https://remotive.com/remote/jobs/software-development/senior-frontend-engineer-2745440 | Bnberry | Senior Frontend Engineer (Remote Europe) — AI travel-tech/Hosto.ai, React+Next.js+Capacitor, fully remote, equity (gate: confirm UAE/non-EU OK, confirm React-primary over Vue)
+- [ ] https://remotive.com/remote/jobs/software-development/senior-frontend-engineer-2443202 | Eurodollar Group | Senior Frontend Engineer — Denmark fintech/DeFi, React+Next.js+TypeScript, remote (gate: confirm EMEA/UAE remote accepted, comp $40k–$120k range, verify posting still active)
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/6031663003 | Remote.com | Senior Frontend Engineer (newer posting — distinct job ID from /4194047003 already in pipeline; gate: confirm it's a genuinely separate role)
+- [ ] https://jobs.ashbyhq.com/zeely/1dd74b9d-6488-4434-bb48-958141508d15 | Zeely Inc. | Senior Frontend Developer — React.js, Paris office + remote-flexible (AI ad-creative platform; gate: confirm UAE remote accepted or if Western Europe location required)
+
 ## Procesadas
