@@ -90,4 +90,15 @@
 - [ ] https://job-boards.greenhouse.io/remotecom/jobs/6031663003 | Remote.com | Senior Frontend Engineer (newer posting — distinct job ID from /4194047003 already in pipeline; gate: confirm it's a genuinely separate role)
 - [ ] https://jobs.ashbyhq.com/zeely/1dd74b9d-6488-4434-bb48-958141508d15 | Zeely Inc. | Senior Frontend Developer — React.js, Paris office + remote-flexible (AI ad-creative platform; gate: confirm UAE remote accepted or if Western Europe location required)
 
+<!-- EU/Sweden/Europe React watchlist scan — 2026-09-13 -->
+- [ ] https://jobs.lever.co/spotify/9ce12867-8c84-40c5-be40-d8831ab98925 | Spotify | Frontend Engineer – Music (Stockholm SE, React+TypeScript, tracked company — gate: confirm relocation/visa sponsorship or UAE remote OK)
+- [ ] https://jobs.lever.co/spotify/1692fccc-29f4-4525-a683-b004c2ec62b9 | Spotify | Senior Fullstack Engineer (Stockholm SE, React+TypeScript+Next.js+Java, Aug 2026 — gate: confirm React-primary scope, relocation/sponsorship policy)
+- [ ] https://jobs.lever.co/spotify/1e8c984e-fa8e-4dbb-8f74-6f608ae3bfa1 | Spotify | Fullstack Engineer – Subscriptions (Stockholm SE, React+TypeScript+Next.js, subscription product at scale — gate: confirm React-primary, sponsorship/relocation)
+- [ ] https://relocate.me/sweden/stockholm/diet-doctor/senior-react-native-developer-6005 | Diet Doctor | Senior React Native Developer (Stockholm SE, explicit relocation + visa sponsorship, health-tech — gate: find direct ATS URL, confirm role still active)
+- [ ] https://relocate.me/the-netherlands/amsterdam/weeronline/senior-frontend-developer-react-140 | Weeronline | Senior Frontend Developer – React (Amsterdam NL, explicit visa sponsorship + relocation, weather platform — gate: find direct ATS URL, confirm posting still active)
+- [ ] https://relocate.me/the-netherlands/amsterdam/bloomon/senior-full-stack-developer-react-node-js-802 | Bloomon | Senior Full Stack Developer – React/Node.js (Amsterdam NL, explicit visa sponsorship + relocation, D2C floral/plants — gate: confirm React-primary not Node-heavy, find direct ATS URL)
+- [ ] https://relocate.me/austria/vienna/swat-io/senior-typescript-react-developer-6447 | Swat.io | Senior TypeScript React Developer (Vienna AT, explicit visa sponsorship + relocation, social media management SaaS — gate: find direct ATS URL, confirm posting still active)
+- [ ] https://jobs.ashbyhq.com/legora/9d37e6e0-15d9-4af1-b552-729bacbc4a2a | Legora | Design Systems Engineer (Stockholm SE, tracked company — AI-native legal workspace, React design systems — gate: confirm scope is engineering not pure design, UAE remote OK)
+- [ ] https://jobs.ashbyhq.com/Reaktor/85faa3f7-4ddc-4ee6-8afb-d0617f7419ab | Reaktor | Senior Fullstack Developer (Lisbon PT, Finnish tech consultancy, React-heavy EU client work — gate: confirm EU sponsorship or UAE remote accepted)
+
 ## Procesadas
