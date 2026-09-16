@@ -101,4 +101,11 @@
 - [ ] https://jobs.ashbyhq.com/legora/9d37e6e0-15d9-4af1-b552-729bacbc4a2a | Legora | Design Systems Engineer (Stockholm SE, tracked company — AI-native legal workspace, React design systems — gate: confirm scope is engineering not pure design, UAE remote OK)
 - [ ] https://jobs.ashbyhq.com/Reaktor/85faa3f7-4ddc-4ee6-8afb-d0617f7419ab | Reaktor | Senior Fullstack Developer (Lisbon PT, Finnish tech consultancy, React-heavy EU client work — gate: confirm EU sponsorship or UAE remote accepted)
 
+<!-- EU/Sweden/Europe React watchlist scan — 2026-09-16 -->
+- [ ] https://relocate.me/germany/berlin/elinvar/senior-frontend-engineer-react-js-7225 | Elinvar | (Senior) Frontend Engineer – React.js (Berlin DE, fintech B2B2C wealthtech PaaS, full relocation + visa sponsorship — gate: find direct ATS URL, confirm hybrid/remote policy)
+- [ ] https://relocate.me/germany/berlin/delivery-hero/senior-react-frontend-engineer-ux-logistics-4633 | Delivery Hero | Senior React Frontend Engineer (UX) – Logistics (Berlin DE, React.js, full relocation + visa sponsorship — gate: verify posting still active, confirm remote option or relocation-only)
+- [ ] https://relocate.me/germany/munich/finn/senior-frontend-engineer-7949 | FINN | Frontend Engineer (ReactJS) (Munich or Remote, car subscription startup, full relocation + visa sponsorship, CET timezone — gate: confirm CET±? window, UAE UTC+4 may be borderline)
+- [ ] https://remotive.com/remote/jobs/software-development/senior-react-native-engineer-3853700 | Fueled | Senior React Native Engineer (Global remote, React Native + Expo + TypeScript, $120–170/hr, 300+ person global agency — gate: confirm comp structure contractor vs FTE, UAE timezone accepted)
+- [ ] https://jobs.lever.co/jobgether/472479a3-cc59-4fdb-977a-2d76e1b1a92b | Jobgether | Senior Fullstack Engineer (React + TypeScript + Next.js, Europe remote — gate: identify actual employer behind Jobgether listing, confirm UAE remote OK)
+
 ## Procesadas
