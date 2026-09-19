@@ -108,4 +108,12 @@
 - [ ] https://remotive.com/remote/jobs/software-development/senior-react-native-engineer-3853700 | Fueled | Senior React Native Engineer (Global remote, React Native + Expo + TypeScript, $120–170/hr, 300+ person global agency — gate: confirm comp structure contractor vs FTE, UAE timezone accepted)
 - [ ] https://jobs.lever.co/jobgether/472479a3-cc59-4fdb-977a-2d76e1b1a92b | Jobgether | Senior Fullstack Engineer (React + TypeScript + Next.js, Europe remote — gate: identify actual employer behind Jobgether listing, confirm UAE remote OK)
 
+<!-- EU/Sweden/Europe React watchlist scan — 2026-09-19 -->
+- [ ] https://jobs.ashbyhq.com/zoe/a43b0a0d-dc2c-4cce-8f4d-1f6924081416 | ZOE | React Native Engineer (UK health startup, ~40 engineers distributed UK+EU, remote-first — gate: confirm UAE-remote OK or UK visa sponsorship)
+- [ ] https://jobs.ashbyhq.com/zoe/3e005430-74e4-4364-9bfd-5888242df31e | ZOE | Lead React Native Engineer (Lead level at same co; React Native mobile health app — gate: confirm UAE-remote OK or UK visa sponsorship)
+- [ ] https://remotive.com/remote/jobs/software-development/senior-fullstack-developer-next-js-typescript-5090196 | Infinos GmbH | Senior Fullstack Developer – Next.js/TypeScript (German health co, worldwide remote incl. UAE, Next.js + React + Expo mobile — gate: comp €55k-€75k lower range; confirm acceptable)
+- [ ] https://jobs.ashbyhq.com/trading212/bfc55935-e412-4725-8e15-fdfe57522505 | Trading212 | Senior Frontend Engineer (new req distinct from 0a65135a in pipeline; EU fintech Dublin+Sofia hub, React+React Native monorepo — gate: confirm UAE remote or relocation/sponsorship)
+- [ ] https://jobs.ashbyhq.com/trading212/2c88e577-7e24-43c7-a979-242961aa3eb6 | Trading212 | Staff Frontend Engineer (staff-level architecture role, React+React Native+Nx monorepo; EU fintech — gate: confirm UAE remote or relocation/sponsorship)
+- [ ] https://jobs.ashbyhq.com/pandektes/9987c143-f5cb-4d89-9d18-9b7925757143 | Pandektes | Senior Frontend Engineer (Copenhagen DK, AI legaltech €4M+ seed, React+Next.js App Router — on-site role; gate: confirm visa sponsorship + relocation package, or remote option)
+
 ## Procesadas
