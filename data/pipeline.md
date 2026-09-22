@@ -116,4 +116,12 @@
 - [ ] https://jobs.ashbyhq.com/trading212/2c88e577-7e24-43c7-a979-242961aa3eb6 | Trading212 | Staff Frontend Engineer (staff-level architecture role, React+React Native+Nx monorepo; EU fintech — gate: confirm UAE remote or relocation/sponsorship)
 - [ ] https://jobs.ashbyhq.com/pandektes/9987c143-f5cb-4d89-9d18-9b7925757143 | Pandektes | Senior Frontend Engineer (Copenhagen DK, AI legaltech €4M+ seed, React+Next.js App Router — on-site role; gate: confirm visa sponsorship + relocation package, or remote option)
 
+<!-- EU/Sweden/Europe React watchlist scan — 2026-09-22 -->
+- [ ] https://jobs.ashbyhq.com/simplestudy/6d4e68d2-8dcf-4c71-9e43-fdba0b24f577 | SimpleStudy | Senior Full-Stack Engineer (EU Remote / Lisbon office, Next.js+React+Node.js, $4M seed AI exam-prep 1.5M+ students — gate: confirm UAE-based accepted for "Remote in Europe")
+- [ ] https://jobs.ashbyhq.com/simplestudy/c2c33d93-eb00-4931-a43f-670d04fcabda | SimpleStudy | Staff Frontend Engineer (EU Remote / Lisbon hybrid, Next.js+React, staff-level scope — gate: confirm UAE-based accepted, confirm staff-level vs senior expectation)
+- [ ] https://relocate.me/spain/madrid/lingokids/sr-react-native-developer-1032 | Lingokids | Sr React Native Developer (Madrid ES, explicit EU visa sponsorship + relocation, 200M+ family EdTech platform — gate: CET overlap required, find direct ATS URL, confirm posting still active)
+- [ ] https://weworkremotely.com/remote-jobs/proxify-ab-senior-react-native-developer-6 | Proxify AB | Senior React Native Developer (CET ±3h, Swedish co fully remote — distinct React Native listing from React.js/Next.js and MERN listings already in pipeline — gate: UAE UTC+4 = CET+3, exactly at boundary; confirm UAE accepted; confirm comp for contractors)
+- [ ] https://jobs.lever.co/zartis/9febfb96-224c-4c6d-acab-d5e70a2c4dc6 | Zartis | Senior Frontend Engineer – React (Ireland/EU remote, EMEA+LATAM engineering hubs, fintech client project — gate: confirm UAE-remote accepted, confirm no EU work auth required for remote contract, identify client)
+- [ ] https://jobs.lever.co/smart-working-solutions/808ff6ea-db73-44dd-9edd-46d8fc4d6aaa | Smart Working Solutions | Senior Full Stack Developer – React Native + React (remote-first global placement, multi-platform booking product — gate: confirm actual client/employer, confirm UAE location accepted, confirm comp range)
+
 ## Procesadas
