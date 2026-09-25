@@ -124,4 +124,14 @@
 - [ ] https://jobs.lever.co/zartis/9febfb96-224c-4c6d-acab-d5e70a2c4dc6 | Zartis | Senior Frontend Engineer – React (Ireland/EU remote, EMEA+LATAM engineering hubs, fintech client project — gate: confirm UAE-remote accepted, confirm no EU work auth required for remote contract, identify client)
 - [ ] https://jobs.lever.co/smart-working-solutions/808ff6ea-db73-44dd-9edd-46d8fc4d6aaa | Smart Working Solutions | Senior Full Stack Developer – React Native + React (remote-first global placement, multi-platform booking product — gate: confirm actual client/employer, confirm UAE location accepted, confirm comp range)
 
+<!-- EU/Sweden/Europe React watchlist scan — 2026-09-25 -->
+- [ ] https://euremotejobs.com/job/senior-frontend-engineer-19/ | Noice | Senior Frontend Engineer (EU remote, React/TypeScript/GraphQL, Finnish gaming/livestreaming startup $27M raised — gate: confirm UAE remote OK)
+- [ ] https://euremotejobs.com/job/senior-frontend-developer-product-team/ | Manychat | Senior Frontend Developer (EU remote, React/Redux/TypeScript/Vite, Meta Business Partner, 30+ senior-heavy frontend team — gate: confirm UAE remote OK)
+- [ ] https://euremotejobs.com/job/senior-product-engineer-frontend-react-typescript/ | Dash0 | Senior Product Engineer – Frontend (EMEA remote explicitly, React/TypeScript, OpenTelemetry observability platform, offices NY/Amsterdam/Munich — UAE is in EMEA scope)
+- [ ] https://jaabz.com/jobs/73982-senior-react-native-engineer-visa-sponsorship-and-relocation-to-the-uk-offered | MoonPay | Senior React Native Engineer (London UK, explicit visa sponsorship + relocation to UK offered, crypto payments — gate: confirm comp range, UK work permit process)
+- [ ] https://jobs.ashbyhq.com/trading212/86e40e1c-f276-40f8-8dfc-91f7710447cd | Trading212 | Senior Frontend Engineer (EU fintech, React+React Native 6M+ users, distinct req from 0a65135a and bfc55935 already in pipeline — gate: confirm UAE remote or relocation/sponsorship)
+- [ ] https://jobs.ashbyhq.com/trading212/58243576-ca1f-4622-ae7c-5ac66afb48e5 | Trading212 | Staff Frontend Engineer (frontend architecture across React+React Native+Nx monorepo at scale, distinct from 2c88e577 in pipeline — gate: confirm UAE remote)
+- [ ] https://jobs.lever.co/jobgether/74b6da1b-856c-489f-872a-50ffde39dd4a | Jobgether | Senior React Native Engineer — REMOTE (mobile infra ownership, CI/CD + perf + design-pattern leadership, Europe remote — gate: identify actual employer)
+- [ ] https://jobs.lever.co/jobgether/77252878-3020-405f-97ed-648f70b0978e | Jobgether | Senior Full-Stack Engineer – React + Node.js + React Native (consumer AI platform for students, Europe remote — gate: identify actual employer)
+
 ## Procesadas
