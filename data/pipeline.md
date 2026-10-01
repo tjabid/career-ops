@@ -145,4 +145,10 @@
 - [ ] https://jobs.lever.co/jobgether/8e0a746d-1ae4-4330-895f-5ef8f83ba2aa | Jobgether | Senior Javascript Developer – React (Europe remote, React.js + Next.js senior web eng — gate: identify actual employer, confirm UAE remote OK)
 - [ ] https://relocate.me/denmark/billund/the-lego-group/senior-frontend-react-engineer-8639 | LEGO Group | Senior Frontend (React) Engineer (Billund DK HQ, distinct from Copenhagen + Denmark entries already in pipeline, explicit relocation + visa sponsorship — gate: find direct lego.com/careers ATS URL, verify posting still active)
 
+<!-- EU/Sweden/Europe React watchlist scan — 2026-10-01 -->
+- [ ] https://boards.greenhouse.io/grafanalabs/jobs/4351373004 | Grafana Labs | Senior Frontend (React) Engineer – k6, Incident Response Management (EMEA Remote, React+TypeScript, 2yr+ React req — EMEA scope likely includes UAE; gate: verify posting still active, confirm UAE-remote accepted)
+- [ ] https://boards.greenhouse.io/grafanalabs/jobs/5396278004 | Grafana Labs | Senior Frontend Software Engineer – Business Applications (Sweden Remote, React+TypeScript+Go, comp 738k–920k SEK — gate: requires Sweden-based; confirm relocation/visa sponsorship for UAE → SE)
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5481910004 | Grafana Labs | Senior Frontend Engineer – Grafana Ops, Alerting (Germany/EU Remote, React+TypeScript+Redux — gate: EU timezone req; UAE UTC+4 overlaps CET, confirm accepted)
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5800026004 | Grafana Labs | Senior Frontend Engineer – Session Replay / Grafana Cloud (Spain/Germany/Ireland/UK/Sweden remote, React+TypeScript — gate: specific EU country list; confirm relocation/visa support for UAE candidate)
+
 ## Procesadas
