@@ -151,4 +151,12 @@
 - [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5481910004 | Grafana Labs | Senior Frontend Engineer – Grafana Ops, Alerting (Germany/EU Remote, React+TypeScript+Redux — gate: EU timezone req; UAE UTC+4 overlaps CET, confirm accepted)
 - [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5800026004 | Grafana Labs | Senior Frontend Engineer – Session Replay / Grafana Cloud (Spain/Germany/Ireland/UK/Sweden remote, React+TypeScript — gate: specific EU country list; confirm relocation/visa support for UAE candidate)
 
+<!-- EU/Sweden/Europe React watchlist scan — 2026-10-07 -->
+- [ ] https://miro.com/careers/vacancy/8305233002 | Miro | Senior Frontend Software Engineer (Berlin DE / Amsterdam NL, React+TypeScript+WebGL canvas platform, 100M+ users, confirmed full relocation pkg: flight + housing + visa services — gate: on-site Berlin/Amsterdam relocation required, confirm remote-first option if any)
+- [ ] https://euremotejobs.com/job/senior-growth-engineer/ | Buffer | Senior Growth Engineer (WFA globally, Next.js v15+ + React + TypeScript, product-led growth focus, distributed team — gate: confirm open to UAE-based; verify still active 2026)
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7580237003 | Remote.com | Senior Frontend Engineer – Website & SEO (EMEA remote, React+Next.js marketing/growth scope, distinct from /4194047003 and /6031663003 already in pipeline — gate: confirm this is a separate open role, not a dupe)
+- [ ] https://job-boards.greenhouse.io/lumimeds/jobs/4088606009 | Lumimeds | Senior/Lead Frontend Engineer – Next.js, React & Web Platforms (remote, Next.js+React architecture ownership, 7+ yrs req — distinct from job/4205821009 already in pipeline; gate: confirm UAE-remote accepted, verify posting still active)
+- [ ] https://euremotejobs.com/job/senior-frontend-developer-react-typescript-at-no-pressure/ | No Pressure | Senior Frontend Developer – React, TypeScript (EU remote, React.js+TypeScript ownership role — gate: identify company HQ country, confirm UAE-based remote accepted, find direct ATS URL)
+- [ ] https://remotive.com/remote/jobs/software-development/senior-react-software-engineer-4717212 | Lineate | Senior React Software Engineer (Poland remote, Next.js preferred, US-EU engineering firm — gate: confirm UAE remote accepted not Poland-only, find direct ATS URL, verify posting still active)
+
 ## Procesadas
